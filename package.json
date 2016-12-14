@@ -1,0 +1,20 @@
+{
+  "name": "pemify",
+  "version": "0.1.0",
+  "description": "Convert certificates to PEM format using OpenSSL.",
+  "keywords": [
+    "convert",
+    "certificate",
+    "certificates",
+    "PEM",
+    "DER",
+    "X.509",
+    "X509",
+    "OpenSSL",
+    "SSL",
+    "TLS"
+  ],
+  "license": "ISC",
+  "author": "Jakob Krigovsky <jakob@krigovsky.com>",
+  "repository": "sonicdoe/pemify"
+}
