@@ -17,6 +17,9 @@
   "license": "ISC",
   "author": "Jakob Krigovsky <jakob@krigovsky.com>",
   "repository": "sonicdoe/pemify",
+  "scripts": {
+    "test": "ava"
+  },
   "devDependencies": {
     "ava": "^0.17.0"
   }
