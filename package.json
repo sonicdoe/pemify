@@ -20,6 +20,9 @@
   "scripts": {
     "test": "standard && ava"
   },
+  "dependencies": {
+    "bindung": "^1.0.0"
+  },
   "devDependencies": {
     "ava": "^0.17.0",
     "nan": "^2.4.0",
