@@ -16,6 +16,11 @@
   ],
   "license": "ISC",
   "author": "Jakob Krigovsky <jakob@krigovsky.com>",
+  "files": [
+    "src/",
+    "binding.gyp",
+    "index.js"
+  ],
   "repository": "sonicdoe/pemify",
   "scripts": {
     "test": "standard && ava"
